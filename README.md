@@ -23,7 +23,7 @@ O eFront é um material de ensino de frontend onde é ensinado as tecnologias ma
 - [ ]  Você pode assistir a live: [Dia 4]()
 
 # Deploy - Site
-[Clique aqui e confira!](efront-desafio1.vercel.app)
+[Clique aqui e confira!](https://efront-desafio1-897dx5ump-suamirochadev.vercel.app/)
 
 
 # Autora
