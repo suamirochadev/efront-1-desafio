@@ -20,7 +20,7 @@ O eFront é um material de ensino de frontend onde é ensinado as tecnologias ma
 - [x]  Você pode assistir a live: [Dia 1](https://www.twitch.tv/videos/1980031377)
 - [x]  Você pode assistir a live: [Dia 2](https://www.twitch.tv/videos/1980944416)
 - [x]  Você pode assistir a live: [Dia 3](https://www.twitch.tv/videos/1980944416)
-- [ ]  Você pode assistir a live: [Dia 4]()
+- [x]  Você pode assistir a live: [Dia 4](https://www.twitch.tv/videos/1982890891)
 
 # Deploy - Site
 [Clique aqui e confira!](https://efront-desafio1-897dx5ump-suamirochadev.vercel.app/)
