@@ -13,7 +13,7 @@ O eFront é um material de ensino de frontend onde é ensinado as tecnologias ma
 # Desafio 1 - Blog
 
 <a href="https://iuricode.com/efront/">
-  <img src="https://cdn.discordapp.com/attachments/1150491571226169394/1175986142978510948/image.png?ex=656d3971&is=655ac471&hm=1ade1566b50b1a0ad08e4af88e9b1676ed23f68d853d04098c43125cc662b3b9&" alt="IUI do desafio um do ebook eFront"/>
+  <img src="https://media.discordapp.net/attachments/1102358848750231604/1176358742325997618/image.png?ex=6577cef3&is=656559f3&hm=75cd9e80730735cef9a1cedf27c6edb0531d50b265824f1c4f3b6877dad1073e&=&format=webp&quality=lossless&width=872&height=441" alt="IUI do desafio um do ebook eFront"/>
 </a>
 
 ## Processo
